@@ -1,7 +1,9 @@
-import Image from "next/image";
+import AddToCart from "@/components/AddToCart";
+import HomePage from "@/components/HomePage";
 
 export default function Home() {
   return (
-   <div>Hello</div>
+    // <HomePage />
+    <AddToCart />
   );
 }

@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <main className="w-full h-screen px-6 sm:px-8 md:px-20 bg-[#F2F2F2]">
+        <main className="w-full h-screen px-6 antialiased  sm:px-8 md:px-20 bg-[#F2F2F2]">
         <Navbar />
         {children}
         </main>
