@@ -3,7 +3,7 @@ import { Button } from "./ui/button";
 
 const HomePage = () => {
   return (
-    <div className="bg-white gap-4 flex flex-col lg:flex-row mt-2 justify-between lg:justify-evenly w-full p-4 rounded-lg h-[calc(100vh-9rem)] lg:gap-16 ring-[2px] ring-gray-200 overflow-hidden grainy">
+    <div className="bg-white gap-4 flex flex-col lg:flex-row mt-3 justify-between lg:justify-evenly w-full p-4 rounded-lg h-[calc(100vh-8.5rem)] lg:gap-16 ring-[2px] ring-gray-200 overflow-hidden grainy">
       <div className="flex-shrink-0 lg:w-1/2 justify-self-center  mt-2">
         <div className="relative isolate">
           <div
@@ -24,6 +24,7 @@ const HomePage = () => {
           src={"/khukuri.png"}
           height={2251}
           width={3000}
+          alt="khukuri image"
           className="w-full p-8 sm:p-6 md:p-4 lg:p-0 relative z-10 h-96 lg:h-[32rem] object-contain mx-auto flex-shrink-0 rounded-lg rotate-[4deg] lg:ml-8"
         />
       </div>
