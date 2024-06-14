@@ -87,13 +87,13 @@
     "name": "aastamangal.png",
     "description": "A traditional symbol set representing eight auspicious symbols in Nepali culture.",
     "price": 25,
-    "category": "Cultural Symbols"
+    "category": "Household Items"
   },
   {
     "name": "axe.png",
     "description": "A tool with a heavy bladed head mounted across a handle, used for chopping or splitting wood.",
     "price": 15,
-    "category": "Tools"
+    "category": "Weapons"
   },
   {
     "name": "bow.png",
@@ -141,12 +141,12 @@
     "name": "sickle.png",
     "description": "A hand-held agricultural tool with a curved blade, used for harvesting crops.",
     "price": 8,
-    "category": "Tools"
+    "category": "Weapons"
   },
   {
     "name": "trishul.png",
     "description": "A trident, often associated with Hindu deity Shiva, symbolizing power and protection.",
     "price": 30,
-    "category": "Religious Items"
+    "category": "Household Items"
   }
 ]
