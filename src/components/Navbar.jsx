@@ -10,8 +10,8 @@ const Navbar = () => {
   return (
     <nav className="flex relative w-full justify-between flex-col sm:flex-row items-center py-4">
       <div className="flex justify-between w-full sticky top-0 h-[4.5rem] bg-white items-center px-4 py-2 rounded-2xl shadow">
-        <Link href={"/"} className="font-bold text-xl">
-          ARTISAN
+        <Link href={"/"} className="font-bold text-xl  uppercase">
+          Himartisan
         </Link>
         <div className="cursor-pointer">
           {openMenu ? (

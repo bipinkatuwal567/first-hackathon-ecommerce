@@ -1,9 +1,12 @@
-import AddToCart from "@/components/AddToCart";
-import HomePage from "@/components/HomePage";
+import HomePage from "../components/HomePage";
+import ProductPage from "../components/ProductPage";
 
 export default function Home() {
   return (
-    // <HomePage />
-    <AddToCart />
+    <>
+      <HomePage />
+      <ProductPage />
+    </>
+    // <AddToCart />
   );
 }
